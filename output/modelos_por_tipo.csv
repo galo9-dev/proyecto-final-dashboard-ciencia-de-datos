@@ -1,0 +1,15 @@
+mode,modelos
+chat,1735
+image_generation,124
+embedding,106
+responses,100
+audio_transcription,78
+video_generation,35
+audio_speech,33
+completion,33
+image_edit,31
+realtime,26
+rerank,26
+ocr,17
+search,7
+moderation,3

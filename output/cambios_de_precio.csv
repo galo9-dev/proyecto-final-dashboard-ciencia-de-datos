@@ -1,0 +1,571 @@
+week_start,model_id,model_name,developer,precio_anterior,output_price_per_1m_tokens,variacion_pct
+2025-01-27,anthropic.claude-3-5-haiku-20241022-v1:0,anthropic.claude-3-5-haiku-20241022-v1:0,Anthropic,5.0,4.0,-20.0
+2025-01-27,anthropic.claude-instant-v1,anthropic.claude-instant-v1,Anthropic,5.51,2.4,-56.4
+2023-12-04,anthropic.claude-v1,anthropic.claude-v1,Anthropic,32.68,24.0,-26.6
+2023-12-04,anthropic.claude-v2,anthropic.claude-v2,Anthropic,32.68,24.0,-26.6
+2026-09-21,azure/eu/gpt-5.6,gpt-5.6,OpenAI,33.0,22.0,-33.3
+2026-08-03,azure/eu/gpt-5.6-luna,gpt-5.6-luna,OpenAI,6.6,1.32,-80.0
+2026-09-14,azure/eu/gpt-5.6-sol,gpt-5.6-sol,OpenAI,33.0,22.0,-33.3
+2026-08-03,azure/eu/gpt-5.6-terra,gpt-5.6-terra,OpenAI,16.5,13.2,-20.0
+2026-09-28,azure/eu/gpt-6-astra,gpt-6-astra,OpenAI,55.0,60.0,9.1
+2025-02-10,azure/gpt-3.5-turbo,gpt-3.5-turbo,OpenAI,2.0,1.5,-25.0
+2024-05-20,azure/gpt-35-turbo,gpt-35-turbo,OpenAI,2.0,1.5,-25.0
+2025-03-17,azure/gpt-4o,gpt-4o,OpenAI,15.0,10.0,-33.3
+2025-03-17,azure/gpt-4o-2024-08-06,gpt-4o-2024-08-06,OpenAI,11.0,10.0,-9.1
+2026-09-14,azure/gpt-4o-2024-11-20,gpt-4o-2024-11-20,OpenAI,11.0,10.0,-9.1
+2026-09-21,azure/gpt-4o-mini,gpt-4o-mini,OpenAI,0.66,0.6,-9.1
+2026-09-14,azure/gpt-4o-mini-2024-07-18,gpt-4o-mini-2024-07-18,OpenAI,0.66,0.6,-9.1
+2026-04-27,azure/gpt-5.5-pro,gpt-5.5-pro,OpenAI,360.0,180.0,-50.0
+2026-04-27,azure/gpt-5.5-pro-2026-04-23,gpt-5.5-pro-2026-04-23,OpenAI,360.0,180.0,-50.0
+2026-09-21,azure/gpt-5.6,gpt-5.6,OpenAI,30.0,20.0,-33.3
+2026-08-03,azure/gpt-5.6-luna,gpt-5.6-luna,OpenAI,6.0,1.2,-80.0
+2026-09-14,azure/gpt-5.6-sol,gpt-5.6-sol,OpenAI,30.0,20.0,-33.3
+2026-08-03,azure/gpt-5.6-terra,gpt-5.6-terra,OpenAI,15.0,12.0,-20.0
+2025-03-03,azure/o1-mini,o1-mini,OpenAI,12.0,4.84,-59.7
+2026-09-14,azure/o1-mini,o1-mini,OpenAI,4.84,4.4,-9.1
+2025-03-03,azure/o1-mini-2024-09-12,o1-mini-2024-09-12,OpenAI,12.0,4.84,-59.7
+2025-04-21,azure/o1-mini-2024-09-12,o1-mini-2024-09-12,OpenAI,4.84,4.4,-9.1
+2025-06-16,azure/o3,o3,OpenAI,40.0,8.0,-80.0
+2025-11-10,azure/o3-2025-04-16,o3-2025-04-16,OpenAI,40.0,8.0,-80.0
+2026-09-21,azure/us/gpt-5.6,gpt-5.6,OpenAI,33.0,22.0,-33.3
+2026-08-03,azure/us/gpt-5.6-luna,gpt-5.6-luna,OpenAI,6.6,1.32,-80.0
+2026-09-14,azure/us/gpt-5.6-sol,gpt-5.6-sol,OpenAI,33.0,22.0,-33.3
+2026-08-03,azure/us/gpt-5.6-terra,gpt-5.6-terra,OpenAI,16.5,13.2,-20.0
+2026-09-14,azure_ai/FW-GLM-5.2-Fast,FW-GLM-5.2-Fast,Zhipu AI (Z.ai),6.6,7.26,10.0
+2026-09-14,azure_ai/FW-Inkling,FW-Inkling,Kuaishou,4.05,4.46,10.1
+2026-09-14,azure_ai/FW-Kimi-K3,FW-Kimi-K3,Moonshot AI,16.5,15.0,-9.1
+2026-09-14,azure_ai/FW-Nemotron-3-Ultra-NVFP4,FW-Nemotron-3-Ultra-NVFP4,NVIDIA,2.4,2.64,10.0
+2026-09-14,azure_ai/Llama-4-Maverick-17B-128E-Instruct-FP8,Llama-4-Maverick-17B-128E-Instruct-FP8,Meta,0.35,1.0,185.7
+2026-09-14,azure_ai/Phi-4-mini-reasoning,Phi-4-mini-reasoning,Microsoft,0.32,0.3,-6.2
+2025-04-14,azure_ai/Phi-4-multimodal-instruct,Phi-4-multimodal-instruct,Microsoft,320.0,0.32,-99.9
+2026-09-28,azure_ai/deepseek-v4.1-flash,deepseek-v4.1-flash,DeepSeek,1.5,1.2,-20.0
+2026-01-12,azure_ai/grok-3,grok-3,xAI,16.5,15.0,-9.1
+2026-01-12,azure_ai/grok-3-mini,grok-3-mini,xAI,1.38,1.27,-8.0
+2026-01-12,azure_ai/grok-4,grok-4,xAI,27.5,15.0,-45.5
+2026-01-12,azure_ai/grok-4-fast-non-reasoning,grok-4-fast-non-reasoning,xAI,1.73,0.5,-71.1
+2026-01-12,azure_ai/grok-4-fast-reasoning,grok-4-fast-reasoning,xAI,1.73,0.5,-71.1
+2026-01-12,azure_ai/grok-code-fast-1,grok-code-fast-1,xAI,17.5,1.5,-91.4
+2026-02-23,azure_ai/mistral-small-2503,mistral-small-2503,Mistral AI,3.0,0.3,-90.0
+2026-09-28,bedrock/ap-southeast-2/minimax.minimax-m2.5,minimax.minimax-m2.5,MiniMax,1.236,1.24,0.3
+2026-09-21,bedrock/eu-west-3/mistral.mistral-large-2402-v1:0,mistral.mistral-large-2402-v1:0,Mistral AI,31.2,15.6,-50.0
+2026-09-21,bedrock/us-east-1/mistral.mistral-large-2402-v1:0,mistral.mistral-large-2402-v1:0,Mistral AI,24.0,12.0,-50.0
+2026-06-01,bedrock/us-gov-east-1/anthropic.claude-sonnet-4-5-20250929-v1:0,anthropic.claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-03-30,bedrock/us-gov-east-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-04-06,bedrock/us-gov-east-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,18.0,16.5,-8.3
+2026-06-01,bedrock/us-gov-east-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-06-01,bedrock/us-gov-west-1/anthropic.claude-sonnet-4-5-20250929-v1:0,anthropic.claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-03-30,bedrock/us-gov-west-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-04-06,bedrock/us-gov-west-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,18.0,16.5,-8.3
+2026-06-01,bedrock/us-gov-west-1/claude-sonnet-4-5-20250929-v1:0,claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2026-08-31,bedrock/us-gov-west-1/meta.llama3-8b-instruct-v1:0,meta.llama3-8b-instruct-v1:0,Meta,2.65,0.6,-77.4
+2026-09-21,bedrock/us-west-2/mistral.mistral-large-2402-v1:0,mistral.mistral-large-2402-v1:0,Mistral AI,24.0,12.0,-50.0
+2026-07-27,bedrock_mantle/openai.gpt-5.6-luna,openai.gpt-5.6-luna,OpenAI,6.6,1.32,-80.0
+2026-09-14,bedrock_mantle/openai.gpt-5.6-sol,openai.gpt-5.6-sol,OpenAI,33.0,22.0,-33.3
+2026-07-27,bedrock_mantle/openai.gpt-5.6-terra,openai.gpt-5.6-terra,OpenAI,16.5,13.2,-20.0
+2026-09-21,bedrock_mantle/openai.gpt-daybreak-blue-5.6-sol,openai.gpt-daybreak-blue-5.6-sol,OpenAI,33.0,22.0,-33.3
+2026-09-07,bedrock_mantle/openai.gpt-oss-safeguard-20b,openai.gpt-oss-safeguard-20b,OpenAI,0.3,0.2,-33.3
+2026-02-02,cerebras/gpt-oss-120b,gpt-oss-120b,OpenAI,0.69,0.75,8.7
+2024-02-12,chatdolphin,chatdolphin,,20.0,0.5,-97.5
+2023-11-20,claude-2,claude-2,Anthropic,32.68,24.0,-26.6
+2025-02-24,claude-3-5-haiku-20241022,claude-3-5-haiku-20241022,Anthropic,5.0,4.0,-20.0
+2023-11-20,claude-instant-1.2,claude-instant-1.2,Anthropic,5.51,0.551,-90.0
+2024-09-09,command,command,Cohere,15.0,2.0,-86.7
+2024-09-09,command-light,command-light,Cohere,15.0,0.6,-96.0
+2024-09-09,command-nightly,command-nightly,Cohere,15.0,2.0,-86.7
+2024-09-09,command-r,command-r,Cohere,1.5,0.6,-60.0
+2024-09-09,command-r-plus,command-r-plus,Cohere,15.0,10.0,-33.3
+2026-06-15,command-r7b-12-2024,command-r7b-12-2024,Cohere,0.0375,0.15,300.0
+2025-05-19,databricks/databricks-claude-3-7-sonnet,databricks-claude-3-7-sonnet,Anthropic,178.57,17.857,-90.0
+2025-12-01,databricks/databricks-claude-3-7-sonnet,databricks-claude-3-7-sonnet,Anthropic,17.857,15.00002,-16.0
+2024-09-09,databricks/databricks-dbrx-instruct,databricks-dbrx-instruct,,2.25,2.24901,-0.0
+2025-12-01,databricks/databricks-llama-2-70b-chat,databricks-llama-2-70b-chat,Meta,1.5,1.50003,0.0
+2025-12-01,databricks/databricks-llama-4-maverick,databricks-llama-4-maverick,Meta,15.0,1.50003,-90.0
+2024-09-09,databricks/databricks-meta-llama-3-1-405b-instruct,databricks-meta-llama-3-1-405b-instruct,Meta,15.0,15.00002,0.0
+2024-09-09,databricks/databricks-meta-llama-3-1-70b-instruct,databricks-meta-llama-3-1-70b-instruct,Meta,3.0,2.99999,-0.0
+2025-12-01,databricks/databricks-meta-llama-3-3-70b-instruct,databricks-meta-llama-3-3-70b-instruct,Meta,2.99999,1.50003,-50.0
+2024-09-09,databricks/databricks-meta-llama-3-70b-instruct,databricks-meta-llama-3-70b-instruct,Meta,3.0,2.99999,-0.0
+2024-09-09,databricks/databricks-mixtral-8x7b-instruct,databricks-mixtral-8x7b-instruct,Mistral AI,1.0,0.99902,-0.1
+2025-12-01,databricks/databricks-mixtral-8x7b-instruct,databricks-mixtral-8x7b-instruct,Mistral AI,0.99902,1.00002,0.1
+2024-09-09,databricks/databricks-mpt-30b-instruct,databricks-mpt-30b-instruct,,1.0,0.99902,-0.1
+2025-12-01,databricks/databricks-mpt-30b-instruct,databricks-mpt-30b-instruct,,0.99902,1.00002,0.1
+2024-09-09,databricks/databricks-mpt-7b-instruct,databricks-mpt-7b-instruct,,0.5,0.0,-100.0
+2025-08-18,deepinfra/Gryphe/MythoMax-L2-13b,MythoMax-L2-13b,,0.22,0.072,-67.3
+2025-09-29,deepinfra/Gryphe/MythoMax-L2-13b,MythoMax-L2-13b,,0.072,0.09,25.0
+2026-08-24,deepinfra/Gryphe/MythoMax-L2-13b,MythoMax-L2-13b,,0.09,0.4,344.4
+2025-09-29,deepinfra/NousResearch/Hermes-3-Llama-3.1-405B,Hermes-3-Llama-3.1-405B,Nous Research,0.8,1.0,25.0
+2025-09-29,deepinfra/NousResearch/Hermes-3-Llama-3.1-70B,Hermes-3-Llama-3.1-70B,Nous Research,0.28,0.3,7.1
+2026-08-24,deepinfra/NousResearch/Hermes-3-Llama-3.1-70B,Hermes-3-Llama-3.1-70B,Nous Research,0.3,0.7,133.3
+2025-09-08,deepinfra/Qwen/QwQ-32B,QwQ-32B,Alibaba,0.15,0.4,166.7
+2026-08-24,deepinfra/Qwen/Qwen2.5-72B-Instruct,Qwen2.5-72B-Instruct,Alibaba,0.39,0.4,2.6
+2025-09-29,deepinfra/Qwen/Qwen3-235B-A22B,Qwen3-235B-A22B,Alibaba,0.6,0.54,-10.0
+2026-08-24,deepinfra/Qwen/Qwen3-235B-A22B-Instruct-2507,Qwen3-235B-A22B-Instruct-2507,Alibaba,0.6,0.55,-8.3
+2025-09-29,deepinfra/Qwen/Qwen3-235B-A22B-Thinking-2507,Qwen3-235B-A22B-Thinking-2507,Alibaba,0.6,2.9,383.3
+2026-08-24,deepinfra/Qwen/Qwen3-30B-A3B,Qwen3-30B-A3B,Alibaba,0.29,0.5,72.4
+2025-09-29,deepinfra/Qwen/Qwen3-32B,Qwen3-32B,Alibaba,0.3,0.28,-6.7
+2026-08-24,deepinfra/Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo,Qwen3-Coder-480B-A35B-Instruct-Turbo,Alibaba,1.2,1.0,-16.7
+2026-08-24,deepinfra/Qwen/Qwen3-Next-80B-A3B-Instruct,Qwen3-Next-80B-A3B-Instruct,Alibaba,1.4,1.1,-21.4
+2026-08-24,deepinfra/Sao10K/L3.1-70B-Euryale-v2.2,L3.1-70B-Euryale-v2.2,,0.75,0.85,13.3
+2025-08-18,deepinfra/cognitivecomputations/dolphin-2.6-mixtral-8x7b,dolphin-2.6-mixtral-8x7b,Mistral AI,0.27,0.24,-11.1
+2025-09-08,deepinfra/deepseek-ai/DeepSeek-R1,DeepSeek-R1,DeepSeek,2.15,2.4,11.6
+2025-09-29,deepinfra/deepseek-ai/DeepSeek-R1-Distill-Llama-70B,DeepSeek-R1-Distill-Llama-70B,DeepSeek,0.4,0.6,50.0
+2025-09-29,deepinfra/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,DeepSeek-R1-Distill-Qwen-32B,DeepSeek,0.15,0.27,80.0
+2026-08-24,deepinfra/deepseek-ai/DeepSeek-V3-0324,DeepSeek-V3-0324,DeepSeek,0.88,0.9,2.3
+2026-08-24,deepinfra/deepseek-ai/DeepSeek-V3.1,DeepSeek-V3.1,DeepSeek,1.0,0.95,-5.0
+2025-09-29,deepinfra/google/gemini-2.5-flash,gemini-2.5-flash,Google,1.75,2.5,42.9
+2025-09-29,deepinfra/google/gemini-2.5-pro,gemini-2.5-pro,Google,7.0,10.0,42.9
+2026-08-24,deepinfra/google/gemma-3-12b-it,gemma-3-12b-it,Google,0.1,0.15,50.0
+2025-09-29,deepinfra/google/gemma-3-27b-it,gemma-3-27b-it,Google,0.17,0.16,-5.9
+2025-09-08,deepinfra/google/gemma-3-4b-it,gemma-3-4b-it,Google,0.04,0.08,100.0
+2026-08-24,deepinfra/google/gemma-3-4b-it,gemma-3-4b-it,Google,0.08,0.1,25.0
+2024-01-08,deepinfra/jondurbin/airoboros-l2-70b-gpt4-1.4.1,airoboros-l2-70b-gpt4-1.4.1,OpenAI,0.95,0.9,-5.3
+2025-08-18,deepinfra/lizpreciatior/lzlv_70b_fp16_hf,lzlv_70b_fp16_hf,,0.9,0.4,-55.6
+2024-01-08,deepinfra/meta-llama/Llama-2-13b-chat-hf,Llama-2-13b-chat-hf,Meta,0.35,0.22,-37.1
+2025-08-18,deepinfra/meta-llama/Llama-2-13b-chat-hf,Llama-2-13b-chat-hf,Meta,0.22,0.13,-40.9
+2023-10-16,deepinfra/meta-llama/Llama-2-70b-chat-hf,Llama-2-70b-chat-hf,Meta,1.875,0.95,-49.3
+2024-01-08,deepinfra/meta-llama/Llama-2-70b-chat-hf,Llama-2-70b-chat-hf,Meta,0.95,0.9,-5.3
+2025-08-18,deepinfra/meta-llama/Llama-2-70b-chat-hf,Llama-2-70b-chat-hf,Meta,0.9,0.8,-11.1
+2024-01-08,deepinfra/meta-llama/Llama-2-7b-chat-hf,Llama-2-7b-chat-hf,Meta,0.2,0.13,-35.0
+2025-09-29,deepinfra/meta-llama/Llama-3.2-3B-Instruct,Llama-3.2-3B-Instruct,Meta,0.024,0.02,-16.7
+2025-09-29,deepinfra/meta-llama/Llama-3.3-70B-Instruct-Turbo,Llama-3.3-70B-Instruct-Turbo,Meta,0.12,0.39,225.0
+2026-08-24,deepinfra/meta-llama/Llama-3.3-70B-Instruct-Turbo,Llama-3.3-70B-Instruct-Turbo,Meta,0.39,0.32,-17.9
+2026-08-24,deepinfra/meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8,Llama-4-Maverick-17B-128E-Instruct-FP8,Meta,0.6,0.8,33.3
+2025-08-18,deepinfra/meta-llama/Meta-Llama-3-70B-Instruct,Meta-Llama-3-70B-Instruct,Meta,0.79,0.4,-49.4
+2025-08-18,deepinfra/meta-llama/Meta-Llama-3-8B-Instruct,Meta-Llama-3-8B-Instruct,Meta,0.08,0.06,-25.0
+2025-08-18,deepinfra/meta-llama/Meta-Llama-3.1-405B-Instruct,Meta-Llama-3.1-405B-Instruct,Meta,0.9,0.8,-11.1
+2026-08-24,deepinfra/meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo,Meta-Llama-3.1-70B-Instruct-Turbo,Meta,0.28,0.4,42.9
+2025-09-29,deepinfra/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,Meta-Llama-3.1-8B-Instruct-Turbo,Meta,0.02,0.03,50.0
+2026-08-24,deepinfra/meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo,Meta-Llama-3.1-8B-Instruct-Turbo,Meta,0.03,0.04,33.3
+2024-01-08,deepinfra/mistralai/Mistral-7B-Instruct-v0.1,Mistral-7B-Instruct-v0.1,Mistral AI,0.2,0.13,-35.0
+2025-08-18,deepinfra/mistralai/Mistral-7B-Instruct-v0.1,Mistral-7B-Instruct-v0.1,Mistral AI,0.13,0.055,-57.7
+2026-08-24,deepinfra/mistralai/Mistral-Nemo-Instruct-2407,Mistral-Nemo-Instruct-2407,Mistral AI,0.04,0.03,-25.0
+2025-09-29,deepinfra/mistralai/Mistral-Small-3.2-24B-Instruct-2506,Mistral-Small-3.2-24B-Instruct-2506,Mistral AI,0.1,0.2,100.0
+2025-08-18,deepinfra/mistralai/Mixtral-8x7B-Instruct-v0.1,Mixtral-8x7B-Instruct-v0.1,Mistral AI,0.27,0.24,-11.1
+2025-09-29,deepinfra/mistralai/Mixtral-8x7B-Instruct-v0.1,Mixtral-8x7B-Instruct-v0.1,Mistral AI,0.24,0.4,66.7
+2025-09-29,deepinfra/nvidia/Llama-3.1-Nemotron-70B-Instruct,Llama-3.1-Nemotron-70B-Instruct,NVIDIA,0.3,0.6,100.0
+2026-08-24,deepinfra/openai/gpt-oss-120b,gpt-oss-120b,OpenAI,0.45,0.17,-62.2
+2025-09-29,deepinfra/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.16,0.15,-6.2
+2026-08-24,deepinfra/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.15,0.14,-6.7
+2025-08-18,deepinfra/openchat/openchat_3.5,openchat_3.5,,0.13,0.055,-57.7
+2025-09-29,deepinfra/zai-org/GLM-4.5,GLM-4.5,Zhipu AI (Z.ai),2.0,1.6,-20.0
+2025-09-22,deepseek-chat,deepseek-chat,DeepSeek,0.28,1.7,507.1
+2026-01-12,deepseek-chat,deepseek-chat,DeepSeek,1.7,0.42,-75.3
+2026-01-12,deepseek-reasoner,deepseek-reasoner,DeepSeek,1.7,0.42,-75.3
+2026-08-17,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,0.28,1.32,371.4
+2026-09-07,deepseek-v4-flash,deepseek-v4-flash,DeepSeek,1.32,1.2,-9.1
+2026-09-07,deepseek-v4-flash-vision-exp,deepseek-v4-flash-vision-exp,DeepSeek,1.32,1.2,-9.1
+2026-08-17,deepseek-v4-pro,deepseek-v4-pro,DeepSeek,0.87,3.96,355.2
+2025-02-03,deepseek/deepseek-chat,deepseek-chat,DeepSeek,0.28,1.1,292.9
+2026-01-12,deepseek/deepseek-chat,deepseek-chat,DeepSeek,1.1,0.42,-61.8
+2026-01-12,deepseek/deepseek-reasoner,deepseek-reasoner,DeepSeek,2.19,0.42,-80.8
+2026-08-17,deepseek/deepseek-v4-flash,deepseek-v4-flash,DeepSeek,0.28,1.32,371.4
+2026-09-07,deepseek/deepseek-v4-flash,deepseek-v4-flash,DeepSeek,1.32,1.2,-9.1
+2026-09-07,deepseek/deepseek-v4-flash-vision-exp,deepseek-v4-flash-vision-exp,DeepSeek,1.32,1.2,-9.1
+2026-08-17,deepseek/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,0.87,3.96,355.2
+2024-02-12,dolphin,dolphin,,20.0,0.5,-97.5
+2025-01-27,eu.anthropic.claude-3-5-haiku-20241022-v1:0,anthropic.claude-3-5-haiku-20241022-v1:0,Anthropic,5.0,1.25,-75.0
+2026-09-07,eu.anthropic.claude-3-5-haiku-20241022-v1:0,anthropic.claude-3-5-haiku-20241022-v1:0,Anthropic,1.25,4.0,220.0
+2026-09-21,eu.anthropic.claude-opus-4-5-20251101-v1:0,anthropic.claude-opus-4-5-20251101-v1:0,Anthropic,25.0,27.5,10.0
+2025-12-29,fireworks_ai/accounts/fireworks/models/deepseek-v3p2,deepseek-v3p2,DeepSeek,1.2,1.68,40.0
+2026-08-24,fireworks_ai/accounts/fireworks/models/deepseek-v4-flash-0731,deepseek-v4-flash-0731,DeepSeek,0.28,0.66,135.7
+2026-09-14,fireworks_ai/accounts/fireworks/models/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,3.48,1.2,-65.5
+2026-06-15,fireworks_ai/accounts/fireworks/models/gpt-oss-20b,gpt-oss-20b,OpenAI,0.2,0.3,50.0
+2026-09-21,fireworks_ai/accounts/fireworks/routers/kimi-k3-us,kimi-k3-us,Moonshot AI,16.5,22.5,36.4
+2026-08-31,fireworks_ai/deepseek-v4-flash-0731,deepseek-v4-flash-0731,DeepSeek,0.28,0.66,135.7
+2026-09-14,fireworks_ai/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,3.48,1.2,-65.5
+2026-09-21,fireworks_ai/kimi-k3-us,kimi-k3-us,Moonshot AI,16.5,22.5,36.4
+2024-06-17,gemini-1.0-pro,gemini-1.0-pro,Google,0.5,1.5,200.0
+2024-06-17,gemini-1.0-pro-001,gemini-1.0-pro-001,Google,0.5,1.5,200.0
+2024-06-17,gemini-1.0-pro-002,gemini-1.0-pro-002,Google,0.5,1.5,200.0
+2025-01-27,gemini-1.0-pro-vision,gemini-1.0-pro-vision,Google,0.5,1.5,200.0
+2025-01-27,gemini-1.0-pro-vision-001,gemini-1.0-pro-vision-001,Google,0.5,1.5,200.0
+2024-11-04,gemini-1.5-flash,gemini-1.5-flash,Google,1.5,0.3,-80.0
+2024-11-04,gemini-1.5-flash-001,gemini-1.5-flash-001,Google,1.5,0.3,-80.0
+2024-11-04,gemini-1.5-flash-002,gemini-1.5-flash-002,Google,1.5,0.3,-80.0
+2024-10-07,gemini-1.5-flash-exp-0827,gemini-1.5-flash-exp-0827,Google,1.5,0.004687,-99.7
+2024-10-07,gemini-1.5-flash-preview-0514,gemini-1.5-flash-preview-0514,Google,1.5,0.004687,-99.7
+2024-06-17,gemini-1.5-pro,gemini-1.5-pro,Google,1.875,15.0,700.0
+2024-11-04,gemini-1.5-pro,gemini-1.5-pro,Google,15.0,5.0,-66.7
+2024-06-17,gemini-1.5-pro-001,gemini-1.5-pro-001,Google,1.875,15.0,700.0
+2024-11-04,gemini-1.5-pro-001,gemini-1.5-pro-001,Google,15.0,5.0,-66.7
+2024-11-04,gemini-1.5-pro-002,gemini-1.5-pro-002,Google,15.0,5.0,-66.7
+2024-06-17,gemini-1.5-pro-preview-0215,gemini-1.5-pro-preview-0215,Google,1.875,15.0,700.0
+2024-10-07,gemini-1.5-pro-preview-0215,gemini-1.5-pro-preview-0215,Google,15.0,0.3125,-97.9
+2024-06-17,gemini-1.5-pro-preview-0409,gemini-1.5-pro-preview-0409,Google,1.875,15.0,700.0
+2024-10-07,gemini-1.5-pro-preview-0409,gemini-1.5-pro-preview-0409,Google,15.0,0.3125,-97.9
+2024-06-17,gemini-1.5-pro-preview-0514,gemini-1.5-pro-preview-0514,Google,1.875,15.0,700.0
+2024-10-07,gemini-1.5-pro-preview-0514,gemini-1.5-pro-preview-0514,Google,15.0,0.3125,-97.9
+2026-09-14,gemini-2.0-flash,gemini-2.0-flash,Google,0.4,0.6,50.0
+2025-09-01,gemini-2.5-flash-image-preview,gemini-2.5-flash-image-preview,Google,2.5,30.0,1100.0
+2026-08-24,gemini-2.5-flash-native-audio-latest,gemini-2.5-flash-native-audio-latest,Google,2.5,2.0,-20.0
+2026-08-24,gemini-2.5-flash-native-audio-preview-09-2025,gemini-2.5-flash-native-audio-preview-09-2025,Google,2.5,2.0,-20.0
+2026-08-24,gemini-2.5-flash-native-audio-preview-12-2025,gemini-2.5-flash-native-audio-preview-12-2025,Google,2.5,2.0,-20.0
+2025-06-16,gemini-2.5-flash-preview-05-20,gemini-2.5-flash-preview-05-20,Google,0.6,2.5,316.7
+2026-08-24,gemini-2.5-pro-preview-tts,gemini-2.5-pro-preview-tts,Google,10.0,20.0,100.0
+2026-08-17,gemini-3.6-flash,gemini-3.6-flash,Google,7.5,3.75,-50.0
+2026-09-14,gemini-flash-latest,gemini-flash-latest,Google,2.5,3.75,50.0
+2026-09-14,gemini-flash-lite-latest,gemini-flash-lite-latest,Google,0.4,2.5,525.0
+2024-06-17,gemini-pro,gemini-pro,Google,0.5,1.5,200.0
+2026-09-14,gemini-pro-latest,gemini-pro-latest,Google,10.0,12.0,20.0
+2025-01-27,gemini-pro-vision,gemini-pro-vision,Google,0.5,1.5,200.0
+2024-09-09,gemini/gemini-1.5-flash,gemini-1.5-flash,Google,1.05,0.3,-71.4
+2026-03-09,gemini/gemini-1.5-flash,gemini-1.5-flash,Google,0.3,0.0,-100.0
+2024-09-09,gemini/gemini-1.5-flash-latest,gemini-1.5-flash-latest,Google,1.05,0.3,-71.4
+2024-07-01,gemini/gemini-1.5-pro,gemini-1.5-pro,Google,1.05,10.5,900.0
+2024-09-09,gemini/gemini-1.5-pro-exp-0827,gemini-1.5-pro-exp-0827,Google,10.5,0.0,-100.0
+2025-09-01,gemini/gemini-2.5-flash-image-preview,gemini-2.5-flash-image-preview,Google,2.5,30.0,1100.0
+2026-08-24,gemini/gemini-2.5-flash-native-audio-latest,gemini-2.5-flash-native-audio-latest,Google,2.5,2.0,-20.0
+2026-08-24,gemini/gemini-2.5-flash-native-audio-preview-09-2025,gemini-2.5-flash-native-audio-preview-09-2025,Google,2.5,2.0,-20.0
+2026-08-24,gemini/gemini-2.5-flash-native-audio-preview-12-2025,gemini-2.5-flash-native-audio-preview-12-2025,Google,2.5,2.0,-20.0
+2025-06-16,gemini/gemini-2.5-flash-preview-05-20,gemini-2.5-flash-preview-05-20,Google,0.6,2.5,316.7
+2025-04-07,gemini/gemini-2.5-pro-preview-03-25,gemini-2.5-pro-preview-03-25,Google,1.0,10.0,900.0
+2026-08-24,gemini/gemini-2.5-pro-preview-tts,gemini-2.5-pro-preview-tts,Google,10.0,20.0,100.0
+2026-08-17,gemini/gemini-3.6-flash,gemini-3.6-flash,Google,7.5,3.75,-50.0
+2026-09-14,gemini/gemini-flash-latest,gemini-flash-latest,Google,2.5,3.75,50.0
+2026-09-14,gemini/gemini-flash-lite-latest,gemini-flash-lite-latest,Google,0.4,2.5,525.0
+2026-09-14,gemini/gemini-pro-latest,gemini-pro-latest,Google,10.0,12.0,20.0
+2026-09-14,gemini/gemini-robotics-er-2-preview,gemini-robotics-er-2-preview,Google,10.0,5.0,-50.0
+2026-09-21,gemini/gemini-robotics-er-2-streaming-preview,gemini-robotics-er-2-streaming-preview,Google,10.0,5.0,-50.0
+2025-11-03,global.anthropic.claude-haiku-4-5-20251001-v1:0,anthropic.claude-haiku-4-5-20251001-v1:0,Anthropic,5.0,5.5,10.0
+2025-12-08,global.anthropic.claude-haiku-4-5-20251001-v1:0,anthropic.claude-haiku-4-5-20251001-v1:0,Anthropic,5.5,5.0,-9.1
+2026-08-24,global.openai.gpt-5.6-sol,openai.gpt-5.6-sol,OpenAI,30.0,20.0,-33.3
+2025-09-22,gpt-3.5-turbo,gpt-3.5-turbo,OpenAI,2.0,1.5,-25.0
+2024-11-11,gpt-4o,gpt-4o,OpenAI,15.0,10.0,-33.3
+2026-04-27,gpt-5.5-pro,gpt-5.5-pro,OpenAI,360.0,180.0,-50.0
+2026-04-27,gpt-5.5-pro-2026-04-23,gpt-5.5-pro-2026-04-23,OpenAI,360.0,180.0,-50.0
+2026-08-17,gpt-5.6,gpt-5.6,OpenAI,30.0,20.0,-33.3
+2026-07-27,gpt-5.6-luna,gpt-5.6-luna,OpenAI,6.0,1.2,-80.0
+2026-08-17,gpt-5.6-sol,gpt-5.6-sol,OpenAI,30.0,20.0,-33.3
+2026-07-27,gpt-5.6-terra,gpt-5.6-terra,OpenAI,15.0,12.0,-20.0
+2024-06-24,groq/gemma-7b-it,gemma-7b-it,Google,0.1,0.07,-30.0
+2025-12-29,groq/gemma-7b-it,gemma-7b-it,Google,0.07,0.08,14.3
+2024-10-07,groq/llama-3.1-8b-instant,llama-3.1-8b-instant,Meta,0.79,0.08,-89.9
+2024-06-17,groq/llama3-70b-8192,llama3-70b-8192,Meta,0.8,0.79,-1.2
+2024-06-24,groq/llama3-8b-8192,llama3-8b-8192,Meta,0.1,0.08,-20.0
+2024-06-24,groq/mixtral-8x7b-32768,mixtral-8x7b-32768,Mistral AI,0.27,0.24,-11.1
+2026-01-19,groq/openai/gpt-oss-120b,gpt-oss-120b,OpenAI,0.75,0.6,-20.0
+2026-01-19,groq/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.5,0.3,-40.0
+2026-09-28,meta.llama3-1-405b-instruct-v1:0,meta.llama3-1-405b-instruct-v1:0,Meta,16.0,2.4,-85.0
+2024-08-26,meta.llama3-1-70b-instruct-v1:0,meta.llama3-1-70b-instruct-v1:0,Meta,3.5,0.99,-71.7
+2026-09-28,meta.llama3-1-70b-instruct-v1:0,meta.llama3-1-70b-instruct-v1:0,Meta,0.99,0.72,-27.3
+2024-08-26,meta.llama3-1-8b-instruct-v1:0,meta.llama3-1-8b-instruct-v1:0,Meta,0.6,0.22,-63.3
+2026-09-28,meta.llama3-2-11b-instruct-v1:0,meta.llama3-2-11b-instruct-v1:0,Meta,0.35,0.16,-54.3
+2026-09-28,meta.llama3-2-90b-instruct-v1:0,meta.llama3-2-90b-instruct-v1:0,Meta,2.0,0.72,-64.0
+2026-06-08,minimax/MiniMax-M3,MiniMax-M3,MiniMax,2.4,1.2,-50.0
+2026-09-21,mistral.mistral-large-2402-v1:0,mistral.mistral-large-2402-v1:0,Mistral AI,24.0,12.0,-50.0
+2026-09-28,mistral.mistral-large-2407-v1:0,mistral.mistral-large-2407-v1:0,Mistral AI,9.0,6.0,-33.3
+2026-08-17,mistral/codestral-latest,codestral-latest,Mistral AI,3.0,0.9,-70.0
+2026-08-31,mistral/magistral-medium-latest,magistral-medium-latest,Mistral AI,5.0,7.5,50.0
+2026-08-31,mistral/magistral-small-latest,magistral-small-latest,Mistral AI,1.5,0.6,-60.0
+2024-05-27,mistral/mistral-large-2402,mistral-large-2402,Mistral AI,24.0,12.0,-50.0
+2024-05-27,mistral/mistral-large-latest,mistral-large-latest,Mistral AI,24.0,12.0,-50.0
+2024-07-22,mistral/mistral-large-latest,mistral-large-latest,Mistral AI,12.0,9.0,-25.0
+2025-01-06,mistral/mistral-large-latest,mistral-large-latest,Mistral AI,9.0,6.0,-33.3
+2026-03-02,mistral/mistral-large-latest,mistral-large-latest,Mistral AI,6.0,1.5,-75.0
+2024-03-18,mistral/mistral-medium,mistral-medium,Mistral AI,8.2,8.1,-1.2
+2026-08-31,mistral/mistral-medium,mistral-medium,Mistral AI,8.1,7.5,-7.4
+2024-03-18,mistral/mistral-medium-latest,mistral-medium-latest,Mistral AI,8.2,8.1,-1.2
+2025-05-26,mistral/mistral-medium-latest,mistral-medium-latest,Mistral AI,8.1,2.0,-75.3
+2026-06-22,mistral/mistral-medium-latest,mistral-medium-latest,Mistral AI,2.0,7.5,275.0
+2024-03-18,mistral/mistral-small,mistral-small,Mistral AI,1.97,6.0,204.6
+2024-05-27,mistral/mistral-small,mistral-small,Mistral AI,6.0,3.0,-50.0
+2025-03-10,mistral/mistral-small,mistral-small,Mistral AI,3.0,0.3,-90.0
+2024-05-27,mistral/mistral-small-latest,mistral-small-latest,Mistral AI,6.0,3.0,-50.0
+2025-03-10,mistral/mistral-small-latest,mistral-small-latest,Mistral AI,3.0,0.3,-90.0
+2026-03-02,mistral/mistral-small-latest,mistral-small-latest,Mistral AI,0.3,0.18,-40.0
+2026-08-17,mistral/mistral-small-latest,mistral-small-latest,Mistral AI,0.18,0.6,233.3
+2024-05-27,mistral/mistral-tiny,mistral-tiny,Mistral AI,0.46,0.25,-45.7
+2024-05-27,mistral/open-mixtral-8x7b,open-mixtral-8x7b,Mistral AI,6.0,0.7,-88.3
+2025-12-01,moonshot/kimi-thinking-preview,kimi-thinking-preview,Moonshot AI,30.0,2.5,-91.7
+2026-09-28,moonshotai.kimi-k3,moonshotai.kimi-k3,Moonshot AI,15.0,16.5,10.0
+2026-08-31,nebius/Qwen/Qwen2.5-VL-72B-Instruct,Qwen2.5-VL-72B-Instruct,Alibaba,0.4,0.75,87.5
+2026-08-31,nebius/google/gemma-3-27b-it,gemma-3-27b-it,Google,0.2,0.3,50.0
+2026-08-24,novita/qwen/qwen3-coder-480b-a35b-instruct,qwen3-coder-480b-a35b-instruct,Alibaba,1.3,1.55,19.2
+2026-08-24,novita/xiaomimimo/mimo-v2-flash,mimo-v2-flash,Xiaomi,0.3,0.33,10.0
+2025-01-27,o1-mini,o1-mini,OpenAI,12.0,4.4,-63.3
+2025-06-09,o3,o3,OpenAI,40.0,8.0,-80.0
+2025-06-09,o3-2025-04-16,o3-2025-04-16,OpenAI,40.0,8.0,-80.0
+2026-02-16,oci/xai.grok-3,xai.grok-3,xAI,0.15,15.0,9900.0
+2026-02-16,oci/xai.grok-4,xai.grok-4,xAI,0.15,15.0,9900.0
+2026-09-14,openrouter/aion-labs/aion-rp-llama-3.1-8b,aion-rp-llama-3.1-8b,Meta,0.2,1.6,700.0
+2026-09-14,openrouter/anthracite-org/magnum-v4-72b,magnum-v4-72b,,3.0,5.0,66.7
+2026-09-14,openrouter/cohere/command-a,command-a,Cohere,8.0,10.0,25.0
+2025-07-28,openrouter/deepseek/deepseek-chat,deepseek-chat,DeepSeek,0.28,0.272,-2.9
+2025-08-04,openrouter/deepseek/deepseek-chat,deepseek-chat,DeepSeek,0.272,0.28,2.9
+2026-08-31,openrouter/deepseek/deepseek-chat,deepseek-chat,DeepSeek,0.28,0.89,217.9
+2026-09-21,openrouter/deepseek/deepseek-chat,deepseek-chat,DeepSeek,0.89,1.0287,15.6
+2025-08-11,openrouter/deepseek/deepseek-chat-v3-0324,deepseek-chat-v3-0324,DeepSeek,0.85,0.28,-67.1
+2026-08-31,openrouter/deepseek/deepseek-chat-v3-0324,deepseek-chat-v3-0324,DeepSeek,0.28,1.0,257.1
+2026-09-21,openrouter/deepseek/deepseek-chat-v3-0324,deepseek-chat-v3-0324,DeepSeek,1.0,1.14,14.0
+2026-09-07,openrouter/deepseek/deepseek-chat-v3.1,deepseek-chat-v3.1,DeepSeek,0.8,0.95,18.7
+2025-07-28,openrouter/deepseek/deepseek-r1,deepseek-r1,DeepSeek,2.19,2.0,-8.7
+2025-08-04,openrouter/deepseek/deepseek-r1,deepseek-r1,DeepSeek,2.0,2.19,9.5
+2026-08-31,openrouter/deepseek/deepseek-r1,deepseek-r1,DeepSeek,2.19,2.5,14.2
+2026-08-31,openrouter/deepseek/deepseek-r1-distill-llama-70b,deepseek-r1-distill-llama-70b,DeepSeek,0.05,0.8,1500.0
+2026-09-21,openrouter/deepseek/deepseek-v3.2,deepseek-v3.2,DeepSeek,0.4,0.42,5.0
+2026-08-31,openrouter/deepseek/deepseek-v3.2-exp,deepseek-v3.2-exp,DeepSeek,0.4,0.41,2.5
+2026-09-07,openrouter/deepseek/deepseek-v4-flash,deepseek-v4-flash,DeepSeek,0.17556,0.1708,-2.7
+2026-09-14,openrouter/deepseek/deepseek-v4-flash,deepseek-v4-flash,DeepSeek,0.1708,0.07112,-58.4
+2026-09-21,openrouter/deepseek/deepseek-v4-flash,deepseek-v4-flash,DeepSeek,0.07112,0.28,293.7
+2026-09-14,openrouter/deepseek/deepseek-v4-flash-0731,deepseek-v4-flash-0731,DeepSeek,0.18,0.16,-11.1
+2026-09-21,openrouter/deepseek/deepseek-v4-flash-0731,deepseek-v4-flash-0731,DeepSeek,0.16,0.32,100.0
+2026-09-21,openrouter/deepseek/deepseek-v4-flash-vision-exp,deepseek-v4-flash-vision-exp,DeepSeek,0.66,1.32,100.0
+2026-09-28,openrouter/deepseek/deepseek-v4-flash-vision-exp,deepseek-v4-flash-vision-exp,DeepSeek,1.32,0.6468,-51.0
+2026-09-07,openrouter/deepseek/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,3.96,1.719816,-56.6
+2026-09-14,openrouter/deepseek/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,1.719816,0.844596,-50.9
+2026-09-21,openrouter/deepseek/deepseek-v4-pro,deepseek-v4-pro,DeepSeek,0.844596,1.8966,124.6
+2026-09-07,openrouter/deepseek/deepseek-v4-pro-0813,deepseek-v4-pro-0813,DeepSeek,3.96,1.73844,-56.1
+2026-09-14,openrouter/deepseek/deepseek-v4-pro-0813,deepseek-v4-pro-0813,DeepSeek,1.73844,3.96,127.8
+2026-09-21,openrouter/deepseek/deepseek-v4-pro-0813,deepseek-v4-pro-0813,DeepSeek,3.96,3.5,-11.6
+2026-09-28,openrouter/deepseek/deepseek-v4-pro-0813,deepseek-v4-pro-0813,DeepSeek,3.5,4.2,20.0
+2026-09-14,openrouter/deepseek/deepseek-v4.1-flash,deepseek-v4.1-flash,DeepSeek,0.6,1.2,100.0
+2026-09-21,openrouter/deepseek/deepseek-v4.1-flash,deepseek-v4.1-flash,DeepSeek,1.2,0.6,-50.0
+2026-09-28,openrouter/deepseek/deepseek-v4.1-flash,deepseek-v4.1-flash,DeepSeek,0.6,1.2,100.0
+2025-07-28,openrouter/google/gemini-pro-1.5,gemini-pro-1.5,Google,7.5,5.0,-33.3
+2025-08-04,openrouter/google/gemini-pro-1.5,gemini-pro-1.5,Google,5.0,7.5,50.0
+2026-08-31,openrouter/google/gemma-3-12b-it,gemma-3-12b-it,Google,0.03,0.15,400.0
+2026-08-31,openrouter/google/gemma-3-27b-it,gemma-3-27b-it,Google,0.17,0.45,164.7
+2026-08-31,openrouter/google/gemma-3-4b-it,gemma-3-4b-it,Google,0.04,0.1,150.0
+2026-09-07,openrouter/google/gemma-4-26b-a4b-it,gemma-4-26b-a4b-it,Google,0.34,0.22,-35.3
+2026-09-14,openrouter/google/gemma-4-26b-a4b-it,gemma-4-26b-a4b-it,Google,0.22,0.3,36.4
+2026-09-21,openrouter/google/gemma-4-26b-a4b-it,gemma-4-26b-a4b-it,Google,0.3,0.225,-25.0
+2026-08-31,openrouter/gryphe/mythomax-l2-13b,mythomax-l2-13b,,1.875,0.06,-96.8
+2026-09-14,openrouter/gryphe/mythomax-l2-13b,mythomax-l2-13b,,0.06,0.11,83.3
+2026-09-21,openrouter/inclusionai/ling-3.0-flash-vl,ling-3.0-flash-vl,inclusionAI (Ant Group),0.18,0.0616,-65.8
+2025-07-28,openrouter/mancer/weaver,weaver,,5.625,1.5,-73.3
+2025-08-04,openrouter/mancer/weaver,weaver,,1.5,5.625,275.0
+2026-08-31,openrouter/mancer/weaver,weaver,,5.625,0.75,-86.7
+2024-05-06,openrouter/meta-llama/llama-3-70b-instruct,llama-3-70b-instruct,Meta,0.8,0.79,-1.2
+2025-07-28,openrouter/meta-llama/llama-3-70b-instruct,llama-3-70b-instruct,Meta,0.79,0.4,-49.4
+2025-08-04,openrouter/meta-llama/llama-3-70b-instruct,llama-3-70b-instruct,Meta,0.4,0.79,97.5
+2026-08-31,openrouter/meta-llama/llama-3.1-70b-instruct,llama-3.1-70b-instruct,Meta,0.28,0.4,42.9
+2026-08-31,openrouter/meta-llama/llama-3.1-8b-instruct,llama-3.1-8b-instruct,Meta,0.02,0.08,300.0
+2026-08-31,openrouter/meta-llama/llama-3.2-1b-instruct,llama-3.2-1b-instruct,Meta,0.01,0.201,1910.0
+2026-08-31,openrouter/meta-llama/llama-3.2-3b-instruct,llama-3.2-3b-instruct,Meta,0.006,0.33,5400.0
+2026-08-31,openrouter/meta-llama/llama-3.3-70b-instruct,llama-3.3-70b-instruct,Meta,0.12,0.32,166.7
+2026-08-31,openrouter/meta-llama/llama-4-maverick,llama-4-maverick,Meta,0.6,0.696,16.0
+2026-09-14,openrouter/meta-llama/llama-4-maverick,llama-4-maverick,Meta,0.696,0.6525,-6.2
+2026-08-31,openrouter/meta-llama/llama-guard-4-12b,llama-guard-4-12b,Meta,0.05,0.18,260.0
+2026-09-14,openrouter/microsoft/wizardlm-2-8x22b,wizardlm-2-8x22b,,0.48,0.62,29.2
+2026-08-31,openrouter/minimax/minimax-m1,minimax-m1,MiniMax,1.65,2.2,33.3
+2026-09-28,openrouter/minimax/minimax-m2,minimax-m2,MiniMax,1.02,1.2,17.6
+2026-08-31,openrouter/minimax/minimax-m2.5,minimax-m2.5,MiniMax,1.1,1.08,-1.8
+2026-08-31,openrouter/mistralai/devstral-2512,devstral-2512,Mistral AI,0.6,2.0,233.3
+2025-07-28,openrouter/mistralai/mistral-7b-instruct,mistral-7b-instruct,Mistral AI,0.13,0.054,-58.5
+2025-08-04,openrouter/mistralai/mistral-7b-instruct,mistral-7b-instruct,Mistral AI,0.054,0.13,140.7
+2025-07-28,openrouter/mistralai/mistral-large,mistral-large,Mistral AI,24.0,6.0,-75.0
+2025-08-04,openrouter/mistralai/mistral-large,mistral-large,Mistral AI,6.0,24.0,300.0
+2026-08-31,openrouter/mistralai/mistral-large,mistral-large,Mistral AI,24.0,6.0,-75.0
+2026-09-14,openrouter/mistralai/mistral-large-2512,mistral-large-2512,Mistral AI,1.5,1.65,10.0
+2026-09-21,openrouter/mistralai/mistral-large-2512,mistral-large-2512,Mistral AI,1.65,1.5,-9.1
+2026-08-31,openrouter/mistralai/mistral-nemo,mistral-nemo,Mistral AI,0.05,0.03,-40.0
+2026-08-31,openrouter/mistralai/mistral-small-24b-instruct-2501,mistral-small-24b-instruct-2501,Mistral AI,0.03,0.08,166.7
+2026-08-31,openrouter/mistralai/mistral-small-3.1-24b-instruct,mistral-small-3.1-24b-instruct,Mistral AI,0.3,0.555,85.0
+2025-07-28,openrouter/mistralai/mistral-small-3.2-24b-instruct,mistral-small-3.2-24b-instruct,Mistral AI,0.3,0.1,-66.7
+2025-08-04,openrouter/mistralai/mistral-small-3.2-24b-instruct,mistral-small-3.2-24b-instruct,Mistral AI,0.1,0.3,200.0
+2026-08-31,openrouter/mistralai/mistral-small-3.2-24b-instruct,mistral-small-3.2-24b-instruct,Mistral AI,0.3,0.2,-33.3
+2026-09-14,openrouter/mistralai/mistral-small-3.2-24b-instruct,mistral-small-3.2-24b-instruct,Mistral AI,0.2,0.25,25.0
+2025-07-28,openrouter/mistralai/mixtral-8x22b-instruct,mixtral-8x22b-instruct,Mistral AI,0.65,0.9,38.5
+2025-08-04,openrouter/mistralai/mixtral-8x22b-instruct,mixtral-8x22b-instruct,Mistral AI,0.9,0.65,-27.8
+2026-08-31,openrouter/mistralai/mixtral-8x22b-instruct,mixtral-8x22b-instruct,Mistral AI,0.65,6.0,823.1
+2026-08-31,openrouter/moonshotai/kimi-k2,kimi-k2,Moonshot AI,0.0878,2.3,2519.6
+2026-08-31,openrouter/moonshotai/kimi-k2.5,kimi-k2.5,Moonshot AI,3.0,2.25,-25.0
+2026-09-28,openrouter/moonshotai/kimi-k2.6,kimi-k2.6,Moonshot AI,4.0,3.41,-14.7
+2026-09-07,openrouter/moonshotai/kimi-k2.7-code,kimi-k2.7-code,Moonshot AI,3.4,3.5,2.9
+2026-09-14,openrouter/moonshotai/kimi-k2.7-code,kimi-k2.7-code,Moonshot AI,3.5,3.21,-8.3
+2026-09-21,openrouter/moonshotai/kimi-k2.7-code,kimi-k2.7-code,Moonshot AI,3.21,3.3,2.8
+2026-09-07,openrouter/moonshotai/kimi-k3,kimi-k3,Moonshot AI,15.0,10.53,-29.8
+2026-09-14,openrouter/moonshotai/kimi-k3,kimi-k3,Moonshot AI,10.53,8.5,-19.3
+2026-09-21,openrouter/moonshotai/kimi-k3,kimi-k3,Moonshot AI,8.5,15.0,76.5
+2026-09-21,openrouter/moonshotai/kimi-k3:batch,kimi-k3,Moonshot AI,15.0,11.4,-24.0
+2026-09-14,openrouter/morph/morph-v3-fast,morph-v3-fast,,2.7,1.2,-55.6
+2026-09-14,openrouter/morph/morph-v3-large,morph-v3-large,,2.7,1.9,-29.6
+2026-09-14,openrouter/nousresearch/hermes-3-llama-3.1-405b,hermes-3-llama-3.1-405b,Nous Research,0.8,1.0,25.0
+2026-09-14,openrouter/nousresearch/hermes-3-llama-3.1-70b,hermes-3-llama-3.1-70b,Nous Research,0.28,0.7,150.0
+2026-09-14,openrouter/nvidia/nemotron-3-nano-30b-a3b,nemotron-3-nano-30b-a3b,NVIDIA,0.2,0.24,20.0
+2026-09-21,openrouter/nvidia/nemotron-3-nano-30b-a3b,nemotron-3-nano-30b-a3b,NVIDIA,0.24,0.2,-16.7
+2026-09-14,openrouter/nvidia/nemotron-3-super-120b-a12b,nemotron-3-super-120b-a12b,NVIDIA,0.4,0.45,12.5
+2026-09-14,openrouter/nvidia/nemotron-3-ultra-550b-a55b,nemotron-3-ultra-550b-a55b,NVIDIA,3.125,2.4,-23.2
+2026-09-28,openrouter/nvidia/nemotron-3.5-lightning,nemotron-3.5-lightning,NVIDIA,0.2,0.16,-20.0
+2025-07-28,openrouter/openai/gpt-3.5-turbo,gpt-3.5-turbo,OpenAI,2.0,1.5,-25.0
+2025-08-04,openrouter/openai/gpt-3.5-turbo,gpt-3.5-turbo,OpenAI,1.5,2.0,33.3
+2026-08-31,openrouter/openai/gpt-3.5-turbo,gpt-3.5-turbo,OpenAI,2.0,1.5,-25.0
+2025-03-31,openrouter/openai/gpt-4o,gpt-4o,OpenAI,15.0,10.0,-33.3
+2026-09-28,openrouter/openai/gpt-5.6-sol-pro,gpt-5.6-sol-pro,OpenAI,10.0,20.0,100.0
+2026-08-31,openrouter/openai/gpt-oss-120b,gpt-oss-120b,OpenAI,0.8,0.17,-78.8
+2026-09-14,openrouter/openai/gpt-oss-120b,gpt-oss-120b,OpenAI,0.17,0.6,252.9
+2026-09-21,openrouter/openai/gpt-oss-120b:batch,gpt-oss-120b,OpenAI,0.6,0.136,-77.3
+2026-01-05,openrouter/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.8,0.1,-87.5
+2026-08-31,openrouter/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.1,0.13,30.0
+2026-09-21,openrouter/openai/gpt-oss-20b,gpt-oss-20b,OpenAI,0.13,0.09,-30.8
+2025-07-28,openrouter/openai/o1-mini,o1-mini,OpenAI,12.0,4.4,-63.3
+2025-08-04,openrouter/openai/o1-mini,o1-mini,OpenAI,4.4,12.0,172.7
+2025-07-28,openrouter/openai/o1-mini-2024-09-12,o1-mini-2024-09-12,OpenAI,12.0,4.4,-63.3
+2025-08-04,openrouter/openai/o1-mini-2024-09-12,o1-mini-2024-09-12,OpenAI,4.4,12.0,172.7
+2025-07-28,openrouter/pygmalionai/mythalion-13b,mythalion-13b,,1.875,1.2,-36.0
+2025-08-04,openrouter/pygmalionai/mythalion-13b,mythalion-13b,,1.2,1.875,56.2
+2026-08-31,openrouter/qwen/qwen-2.5-72b-instruct,qwen-2.5-72b-instruct,Alibaba,0.101,0.4,296.0
+2026-08-31,openrouter/qwen/qwen-2.5-7b-instruct,qwen-2.5-7b-instruct,Alibaba,0.1,0.2,100.0
+2025-07-28,openrouter/qwen/qwen-2.5-coder-32b-instruct,qwen-2.5-coder-32b-instruct,Alibaba,0.18,0.15,-16.7
+2025-08-04,openrouter/qwen/qwen-2.5-coder-32b-instruct,qwen-2.5-coder-32b-instruct,Alibaba,0.15,0.18,20.0
+2026-08-31,openrouter/qwen/qwen-2.5-coder-32b-instruct,qwen-2.5-coder-32b-instruct,Alibaba,0.18,1.0,455.6
+2026-08-31,openrouter/qwen/qwen-plus,qwen-plus,Alibaba,1.2,0.78,-35.0
+2026-08-31,openrouter/qwen/qwen2.5-vl-72b-instruct,qwen2.5-vl-72b-instruct,Alibaba,0.75,1.0,33.3
+2026-09-07,openrouter/qwen/qwen3-14b,qwen3-14b,Alibaba,0.24,0.91,279.2
+2026-09-14,openrouter/qwen/qwen3-14b,qwen3-14b,Alibaba,0.91,0.24,-73.6
+2026-09-21,openrouter/qwen/qwen3-14b,qwen3-14b,Alibaba,0.24,0.91,279.2
+2026-09-28,openrouter/qwen/qwen3-14b,qwen3-14b,Alibaba,0.91,0.24,-73.6
+2026-08-31,openrouter/qwen/qwen3-235b-a22b,qwen3-235b-a22b,Alibaba,0.6,1.82,203.3
+2026-02-02,openrouter/qwen/qwen3-235b-a22b-2507,qwen3-235b-a22b-2507,Alibaba,0.1179,0.1,-15.2
+2026-08-31,openrouter/qwen/qwen3-235b-a22b-2507,qwen3-235b-a22b-2507,Alibaba,0.1,0.35,250.0
+2026-09-07,openrouter/qwen/qwen3-235b-a22b-2507,qwen3-235b-a22b-2507,Alibaba,0.35,0.88,151.4
+2026-09-14,openrouter/qwen/qwen3-235b-a22b-2507,qwen3-235b-a22b-2507,Alibaba,0.88,0.35,-60.2
+2026-02-02,openrouter/qwen/qwen3-235b-a22b-thinking-2507,qwen3-235b-a22b-thinking-2507,Alibaba,0.1179,0.6,408.9
+2026-08-31,openrouter/qwen/qwen3-235b-a22b-thinking-2507,qwen3-235b-a22b-thinking-2507,Alibaba,0.6,2.3,283.3
+2026-08-31,openrouter/qwen/qwen3-30b-a3b,qwen3-30b-a3b,Alibaba,0.29,0.5,72.4
+2026-09-21,openrouter/qwen/qwen3-30b-a3b,qwen3-30b-a3b,Alibaba,0.5,0.52,4.0
+2026-09-28,openrouter/qwen/qwen3-30b-a3b,qwen3-30b-a3b,Alibaba,0.52,0.5,-3.8
+2026-08-31,openrouter/qwen/qwen3-30b-a3b-instruct-2507,qwen3-30b-a3b-instruct-2507,Alibaba,0.8,0.19305,-75.9
+2026-09-07,openrouter/qwen/qwen3-30b-a3b-instruct-2507,qwen3-30b-a3b-instruct-2507,Alibaba,0.19305,0.3,55.4
+2026-09-14,openrouter/qwen/qwen3-30b-a3b-instruct-2507,qwen3-30b-a3b-instruct-2507,Alibaba,0.3,0.19305,-35.6
+2026-09-21,openrouter/qwen/qwen3-30b-a3b-instruct-2507,qwen3-30b-a3b-instruct-2507,Alibaba,0.19305,0.3,55.4
+2026-08-31,openrouter/qwen/qwen3-32b,qwen3-32b,Alibaba,0.027,0.28,937.0
+2026-08-31,openrouter/qwen/qwen3-8b,qwen3-8b,Alibaba,0.138,0.455,229.7
+2025-07-28,openrouter/qwen/qwen3-coder,qwen3-coder,Alibaba,5.0,1.2,-76.0
+2025-08-04,openrouter/qwen/qwen3-coder,qwen3-coder,Alibaba,1.2,5.0,316.7
+2025-11-10,openrouter/qwen/qwen3-coder,qwen3-coder,Alibaba,5.0,0.95,-81.0
+2026-08-31,openrouter/qwen/qwen3-coder,qwen3-coder,Alibaba,0.95,1.0,5.3
+2026-08-31,openrouter/qwen/qwen3-coder-plus,qwen3-coder-plus,Alibaba,5.0,3.25,-35.0
+2026-09-14,openrouter/qwen/qwen3-vl-30b-a3b-instruct,qwen3-vl-30b-a3b-instruct,Alibaba,0.6,0.52,-13.3
+2026-09-21,openrouter/qwen/qwen3-vl-30b-a3b-instruct,qwen3-vl-30b-a3b-instruct,Alibaba,0.52,0.6,15.4
+2026-08-31,openrouter/qwen/qwen3.5-122b-a10b,qwen3.5-122b-a10b,Alibaba,2.0,2.4,20.0
+2026-09-07,openrouter/qwen/qwen3.5-122b-a10b,qwen3.5-122b-a10b,Alibaba,2.4,2.08,-13.3
+2026-08-31,openrouter/qwen/qwen3.5-27b,qwen3.5-27b,Alibaba,2.4,1.56,-35.0
+2026-08-31,openrouter/qwen/qwen3.5-35b-a3b,qwen3.5-35b-a3b,Alibaba,2.0,1.25,-37.5
+2026-09-21,openrouter/qwen/qwen3.5-35b-a3b,qwen3.5-35b-a3b,Alibaba,1.25,1.3,4.0
+2026-08-31,openrouter/qwen/qwen3.5-397b-a17b,qwen3.5-397b-a17b,Alibaba,3.6,3.5,-2.8
+2026-08-31,openrouter/qwen/qwen3.5-flash-02-23,qwen3.5-flash-02-23,Alibaba,0.4,0.26,-35.0
+2026-08-31,openrouter/qwen/qwen3.5-plus-02-15,qwen3.5-plus-02-15,Alibaba,2.4,1.56,-35.0
+2026-09-21,openrouter/qwen/qwen3.6-27b,qwen3.6-27b,Alibaba,2.0,3.2,60.0
+2026-09-14,openrouter/qwen/qwen3.6-35b-a3b,qwen3.6-35b-a3b,Alibaba,0.9,1.0,11.1
+2026-09-14,openrouter/qwen/qwen3.8-27b,qwen3.8-27b,Alibaba,3.0,2.55,-15.0
+2026-09-21,openrouter/qwen/qwen3.8-27b,qwen3.8-27b,Alibaba,2.55,3.0,17.6
+2026-09-14,openrouter/rekaai/reka-flash-3,reka-flash-3,,0.013,0.2,1438.5
+2026-09-14,openrouter/sao10k/l3.1-euryale-70b,l3.1-euryale-70b,,0.75,0.85,13.3
+2026-09-14,openrouter/tencent/hunyuan-a13b-instruct,hunyuan-a13b-instruct,Tencent,0.03,0.57,1800.0
+2026-09-14,openrouter/thedrummer/skyfall-36b-v2,skyfall-36b-v2,,0.0728,0.8,998.9
+2025-07-28,openrouter/undi95/remm-slerp-l2-13b,remm-slerp-l2-13b,,1.875,1.0,-46.7
+2025-08-04,openrouter/undi95/remm-slerp-l2-13b,remm-slerp-l2-13b,,1.0,1.875,87.5
+2026-08-31,openrouter/undi95/remm-slerp-l2-13b,remm-slerp-l2-13b,,1.875,0.65,-65.3
+2026-09-28,openrouter/x-ai/grok-4.7,grok-4.7,xAI,4.8,6.0,25.0
+2026-05-18,openrouter/xiaomi/mimo-v2-flash,mimo-v2-flash,Xiaomi,0.29,0.3,3.4
+2026-08-31,openrouter/xiaomi/mimo-v2.5,mimo-v2.5,Xiaomi,2.0,0.28,-86.0
+2026-08-31,openrouter/xiaomi/mimo-v2.5-pro,mimo-v2.5-pro,Xiaomi,3.0,0.87,-71.0
+2026-08-31,openrouter/z-ai/glm-4.5,glm-4.5,Zhipu AI (Z.ai),0.2,2.2,1000.0
+2026-08-31,openrouter/z-ai/glm-4.5-air,glm-4.5-air,Zhipu AI (Z.ai),1.1,0.85,-22.7
+2026-08-31,openrouter/z-ai/glm-4.6,glm-4.6,Zhipu AI (Z.ai),1.75,2.2,25.7
+2026-09-07,openrouter/z-ai/glm-4.6,glm-4.6,Zhipu AI (Z.ai),2.2,1.75,-20.5
+2026-08-31,openrouter/z-ai/glm-4.7,glm-4.7,Zhipu AI (Z.ai),1.5,1.75,16.7
+2026-09-21,openrouter/z-ai/glm-4.7,glm-4.7,Zhipu AI (Z.ai),1.75,2.2,25.7
+2026-08-31,openrouter/z-ai/glm-5,glm-5,Zhipu AI (Z.ai),2.56,1.92,-25.0
+2026-08-31,openrouter/z-ai/glm-5.1,glm-5.1,Zhipu AI (Z.ai),3.5,3.036,-13.3
+2026-09-21,openrouter/z-ai/glm-5.1,glm-5.1,Zhipu AI (Z.ai),3.036,4.4,44.9
+2026-09-07,openrouter/z-ai/glm-5.2,glm-5.2,Zhipu AI (Z.ai),3.036,2.0,-34.1
+2026-09-14,openrouter/z-ai/glm-5.2,glm-5.2,Zhipu AI (Z.ai),2.0,2.0416,2.1
+2026-09-14,openrouter/z-ai/glm-5.3,glm-5.3,Zhipu AI (Z.ai),4.4,2.86,-35.0
+2026-09-21,openrouter/z-ai/glm-5.3,glm-5.3,Zhipu AI (Z.ai),2.86,2.574,-10.0
+2026-09-28,openrouter/z-ai/glm-5.3,glm-5.3,Zhipu AI (Z.ai),2.574,4.4,70.9
+2026-09-07,openrouter/z-ai/glm-5.3-flash,glm-5.3-flash,Zhipu AI (Z.ai),0.25,0.5,100.0
+2026-09-14,openrouter/z-ai/glm-5.3-flash,glm-5.3-flash,Zhipu AI (Z.ai),0.5,0.3,-40.0
+2026-09-21,openrouter/z-ai/glm-5.3-flash,glm-5.3-flash,Zhipu AI (Z.ai),0.3,0.5,66.7
+2026-09-21,openrouter/z-ai/glm-5.3-flash:batch,glm-5.3-flash,Zhipu AI (Z.ai),0.25,0.2,-20.0
+2026-09-21,openrouter/z-ai/glm-5.3:batch,glm-5.3,Zhipu AI (Z.ai),2.2,2.0,-9.1
+2026-09-21,openrouter/~anthropic/claude-opus-latest,claude-opus-latest,Anthropic,25.0,20.0,-20.0
+2026-09-21,openrouter/~deepseek/deepseek-v4-flash-latest,deepseek-v4-flash-latest,DeepSeek,0.16,0.64,300.0
+2026-09-21,openrouter/~moonshotai/kimi-latest,kimi-latest,Moonshot AI,8.5,15.0,76.5
+2026-09-21,openrouter/~openai/gpt-luna-latest,gpt-luna-latest,OpenAI,1.2,0.5,-58.3
+2026-09-21,openrouter/~x-ai/grok-latest,grok-latest,xAI,6.0,4.8,-20.0
+2026-09-28,openrouter/~x-ai/grok-latest,grok-latest,xAI,4.8,6.0,25.0
+2026-09-21,openrouter/~z-ai/glm-flash-latest,glm-flash-latest,Zhipu AI (Z.ai),0.3,0.5,66.7
+2026-09-21,openrouter/~z-ai/glm-latest,glm-latest,Zhipu AI (Z.ai),2.86,2.0548,-28.2
+2024-01-29,perplexity/pplx-70b-online,pplx-70b-online,Perplexity,500.0,2.8,-99.4
+2024-01-29,perplexity/pplx-7b-online,pplx-7b-online,Perplexity,500.0,0.28,-99.9
+2025-05-12,sambanova/Meta-Llama-3.2-1B-Instruct,Meta-Llama-3.2-1B-Instruct,Meta,0.8,0.08,-90.0
+2025-05-12,sambanova/Meta-Llama-3.2-3B-Instruct,Meta-Llama-3.2-3B-Instruct,Meta,1.6,0.16,-90.0
+2026-06-22,sambanova/MiniMax-M2.7,MiniMax-M2.7,MiniMax,1.2,2.4,100.0
+2026-06-22,sambanova/gpt-oss-120b,gpt-oss-120b,OpenAI,4.5,0.59,-86.9
+2026-09-21,together_ai/Qwen/Qwen3.7-Max,Qwen3.7-Max,Alibaba,7.5,4.5,-40.0
+2026-08-31,together_ai/Qwen/Qwen3.8-2.4T-A95B,Qwen3.8-2.4T-A95B,Alibaba,6.25,6.0,-4.0
+2026-09-21,together_ai/Qwen/Qwen3.8-Flash,Qwen3.8-Flash,Alibaba,0.47,0.282,-40.0
+2026-08-24,together_ai/meta-llama/Llama-3.3-70B-Instruct-Turbo,Llama-3.3-70B-Instruct-Turbo,Meta,0.88,1.04,18.2
+2026-06-01,us-gov.anthropic.claude-sonnet-4-5-20250929-v1:0,anthropic.claude-sonnet-4-5-20250929-v1:0,Anthropic,16.5,18.0,9.1
+2025-01-27,us.anthropic.claude-3-5-haiku-20241022-v1:0,anthropic.claude-3-5-haiku-20241022-v1:0,Anthropic,5.0,4.0,-20.0
+2026-01-19,us.anthropic.claude-opus-4-5-20251101-v1:0,anthropic.claude-opus-4-5-20251101-v1:0,Anthropic,25.0,27.5,10.0
+2026-09-28,us.meta.llama3-1-405b-instruct-v1:0,meta.llama3-1-405b-instruct-v1:0,Meta,16.0,2.4,-85.0
+2026-09-28,us.meta.llama3-1-70b-instruct-v1:0,meta.llama3-1-70b-instruct-v1:0,Meta,0.99,0.72,-27.3
+2026-09-28,us.meta.llama3-2-11b-instruct-v1:0,meta.llama3-2-11b-instruct-v1:0,Meta,0.35,0.16,-54.3
+2026-09-28,us.meta.llama3-2-90b-instruct-v1:0,meta.llama3-2-90b-instruct-v1:0,Meta,2.0,0.72,-64.0
+2026-08-24,us.openai.gpt-5.6-sol,openai.gpt-5.6-sol,OpenAI,33.0,22.0,-33.3
+2024-05-27,vertex_ai/claude-3-opus@20240229,claude-3-opus@20240229,Anthropic,7.5,75.0,900.0
+2024-12-23,vertex_ai/codestral@2405,codestral@2405,Mistral AI,3.0,0.6,-80.0
+2024-12-23,vertex_ai/codestral@latest,codestral@latest,Mistral AI,3.0,0.6,-80.0
+2026-08-17,vertex_ai/deepseek-ai/deepseek-v3.1-maas,deepseek-v3.1-maas,DeepSeek,5.4,1.7,-68.5
+2026-08-17,vertex_ai/gemini-3.6-flash,gemini-3.6-flash,Google,7.5,3.75,-50.0
+2024-12-23,vertex_ai/mistral-large@2407,mistral-large@2407,Mistral AI,9.0,6.0,-33.3
+2024-12-23,vertex_ai/mistral-large@latest,mistral-large@latest,Mistral AI,9.0,6.0,-33.3
+2024-12-23,vertex_ai/mistral-nemo@latest,mistral-nemo@latest,Mistral AI,3.0,0.15,-95.0
+2026-09-07,vertex_ai/mistral-small-2503,mistral-small-2503,Mistral AI,3.0,0.3,-90.0
+2026-09-07,vertex_ai/mistral-small-2503@001,mistral-small-2503@001,Mistral AI,3.0,0.3,-90.0
+2026-08-17,vertex_ai/openai/gpt-oss-120b-maas,gpt-oss-120b-maas,OpenAI,0.6,0.36,-40.0
+2026-09-07,vertex_ai/openai/gpt-oss-20b-maas,gpt-oss-20b-maas,OpenAI,0.3,0.25,-16.7
+2026-08-17,vertex_ai/qwen/qwen3-235b-a22b-instruct-2507-maas,qwen3-235b-a22b-instruct-2507-maas,Alibaba,1.0,0.88,-12.0
+2026-08-17,vertex_ai/qwen/qwen3-coder-480b-a35b-instruct-maas,qwen3-coder-480b-a35b-instruct-maas,Alibaba,4.0,1.8,-55.0
+2026-09-07,vertex_ai/xai/grok-4.20-non-reasoning,grok-4.20-non-reasoning,xAI,6.0,2.5,-58.3
+2026-09-07,vertex_ai/xai/grok-4.20-reasoning,grok-4.20-reasoning,xAI,6.0,2.5,-58.3
+2026-01-19,vertex_ai/zai-org/glm-4.7-maas,glm-4.7-maas,Zhipu AI (Z.ai),1.2,2.2,83.3
+2026-09-14,wandb/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B,NVIDIA-Nemotron-3-Ultra-550B-A55B,NVIDIA,2.75,2.15,-21.8
+2026-09-14,wandb/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B,NVIDIA-Nemotron-3.5-Lightning-30B-A3B,NVIDIA,0.25,0.2,-20.0
+2025-10-13,watsonx/google/flan-t5-xl-3b,flan-t5-xl-3b,,250.0,0.6,-99.8
+2025-10-13,watsonx/ibm/granite-3-3-8b-instruct,granite-3-3-8b-instruct,IBM,1000.0,0.2,-100.0
+2025-10-13,watsonx/ibm/granite-3-8b-instruct,granite-3-8b-instruct,IBM,200.0,0.2,-99.9
+2026-08-31,watsonx/ibm/granite-4-h-small,granite-4-h-small,IBM,0.25,0.265,6.0
+2025-10-13,watsonx/ibm/granite-guardian-3-2-2b,granite-guardian-3-2-2b,IBM,600.0,0.1,-100.0
+2025-10-13,watsonx/ibm/granite-guardian-3-3-8b,granite-guardian-3-3-8b,IBM,1000.0,0.2,-100.0
+2025-10-13,watsonx/ibm/granite-vision-3-2-2b,granite-vision-3-2-2b,IBM,600.0,0.1,-100.0
+2025-10-13,watsonx/meta-llama/llama-3-2-11b-vision-instruct,llama-3-2-11b-vision-instruct,Meta,1000.0,0.35,-100.0
+2025-10-13,watsonx/meta-llama/llama-3-2-1b-instruct,llama-3-2-1b-instruct,Meta,200.0,0.1,-100.0
+2025-10-13,watsonx/meta-llama/llama-3-2-3b-instruct,llama-3-2-3b-instruct,Meta,600.0,0.15,-100.0
+2026-08-31,watsonx/meta-llama/llama-3-3-70b-instruct,llama-3-3-70b-instruct,Meta,0.71,0.7526,6.0
+2026-08-31,watsonx/meta-llama/llama-4-maverick-17b,llama-4-maverick-17b,Meta,1.4,1.484,6.0
+2025-10-13,watsonx/meta-llama/llama-guard-3-11b-vision,llama-guard-3-11b-vision,Meta,1000.0,0.35,-100.0
+2025-10-13,watsonx/mistralai/mistral-small-2503,mistral-small-2503,Mistral AI,600.0,0.3,-100.0
+2026-08-31,watsonx/mistralai/mistral-small-3-1-24b-instruct-2503,mistral-small-3-1-24b-instruct-2503,Mistral AI,0.3,0.318,6.0
+2025-10-13,watsonx/mistralai/pixtral-12b-2409,pixtral-12b-2409,Mistral AI,150.0,0.35,-99.8
+2026-08-31,watsonx/openai/gpt-oss-120b,gpt-oss-120b,OpenAI,0.6,0.636,6.0
+2026-08-24,xai/grok-3,grok-3,xAI,15.0,2.5,-83.3
+2026-08-24,xai/grok-3-beta,grok-3-beta,xAI,15.0,2.5,-83.3
+2026-08-24,xai/grok-3-fast-beta,grok-3-fast-beta,xAI,25.0,2.5,-90.0
+2026-08-24,xai/grok-3-fast-latest,grok-3-fast-latest,xAI,25.0,2.5,-90.0
+2026-08-24,xai/grok-3-latest,grok-3-latest,xAI,15.0,2.5,-83.3
+2026-08-24,xai/grok-3-mini,grok-3-mini,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-3-mini-beta,grok-3-mini-beta,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-3-mini-fast,grok-3-mini-fast,xAI,4.0,2.5,-37.5
+2026-08-24,xai/grok-3-mini-fast-beta,grok-3-mini-fast-beta,xAI,4.0,2.5,-37.5
+2026-08-24,xai/grok-3-mini-fast-latest,grok-3-mini-fast-latest,xAI,4.0,2.5,-37.5
+2026-08-24,xai/grok-3-mini-latest,grok-3-mini-latest,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4,grok-4,xAI,15.0,2.5,-83.3
+2026-08-24,xai/grok-4-0709,grok-4-0709,xAI,15.0,2.5,-83.3
+2026-08-24,xai/grok-4-1-fast,grok-4-1-fast,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-1-fast-non-reasoning,grok-4-1-fast-non-reasoning,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-1-fast-non-reasoning-latest,grok-4-1-fast-non-reasoning-latest,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-1-fast-reasoning,grok-4-1-fast-reasoning,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-1-fast-reasoning-latest,grok-4-1-fast-reasoning-latest,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-fast-non-reasoning,grok-4-fast-non-reasoning,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-fast-reasoning,grok-4-fast-reasoning,xAI,0.5,2.5,400.0
+2026-08-24,xai/grok-4-latest,grok-4-latest,xAI,15.0,2.5,-83.3
+2026-08-10,xai/grok-4.20-0309-reasoning,grok-4.20-0309-reasoning,xAI,6.0,2.5,-58.3
+2026-08-10,xai/grok-4.20-beta-0309-non-reasoning,grok-4.20-beta-0309-non-reasoning,xAI,6.0,2.5,-58.3
+2026-08-10,xai/grok-4.20-beta-0309-reasoning,grok-4.20-beta-0309-reasoning,xAI,6.0,2.5,-58.3
+2026-08-10,xai/grok-4.20-multi-agent-beta-0309,grok-4.20-multi-agent-beta-0309,xAI,6.0,2.5,-58.3
+2026-08-10,xai/grok-code-fast,grok-code-fast,xAI,1.5,2.0,33.3
+2026-08-10,xai/grok-code-fast-1,grok-code-fast-1,xAI,1.5,2.0,33.3
+2026-08-10,xai/grok-code-fast-1-0825,grok-code-fast-1-0825,xAI,1.5,2.0,33.3

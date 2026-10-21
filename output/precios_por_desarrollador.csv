@@ -1,0 +1,26 @@
+developer,modelos,entrada_mediana,salida_mediana,ratio_salida_entrada
+Anthropic,123,3.675,18.375,5.0
+OpenAI,187,1.25,8.8,5.0
+Kuaishou,7,1.0,4.05,4.05
+Perplexity,14,1.0,3.9,4.0
+Moonshot AI,44,0.95,3.6,4.211
+Zhipu AI (Z.ai),78,0.99,3.124,3.2
+xAI,67,1.25,2.5,2.5
+Google,89,0.312,2.5,5.5
+ByteDance,18,0.341,2.078,5.0
+Amazon,17,0.33,1.7,4.0
+Cohere,25,1.56,1.56,4.0
+MiniMax,26,0.3,1.2,4.0
+DeepSeek,97,0.44,1.13,2.667
+Alibaba,217,0.22,0.9,3.333
+01.AI,6,0.9,0.9,1.0
+Xiaomi,13,0.3,0.635,2.0
+Mistral AI,135,0.3,0.6,3.0
+Meta,177,0.25,0.6,1.0
+AI21 Labs,13,0.35,0.55,2.0
+Microsoft,19,0.13,0.51,4.0
+Nous Research,23,0.2,0.5,1.0
+Baidu,9,0.21,0.475,3.452
+NVIDIA,37,0.165,0.4,4.0
+IBM,15,0.1,0.2,1.0
+inclusionAI (Ant Group),7,0.06,0.18,3.0
